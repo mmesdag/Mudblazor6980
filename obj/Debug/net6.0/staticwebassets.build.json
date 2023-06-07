@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "89drVbFUgPFVIQJsv2rUVgktztWKnpvvWlHs65pA6hM=",
+  "Source": "PopoverRepro",
+  "BasePath": "_content/PopoverRepro",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PopoverRepro/wwwroot",
+      "Source": "PopoverRepro",
+      "ContentRoot": "/Users/michaelmesdag/Projects/PopoverIssue/wwwroot/",
+      "BasePath": "_content/PopoverRepro",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/michaelmesdag/.nuget/packages/mudblazor/6.4.0/staticwebassets/MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/michaelmesdag/.nuget/packages/mudblazor/6.4.0/staticwebassets/",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michaelmesdag/.nuget/packages/mudblazor/6.4.0/staticwebassets/MudBlazor.min.css"
+    },
+    {
+      "Identity": "/Users/michaelmesdag/.nuget/packages/mudblazor/6.4.0/staticwebassets/MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "/Users/michaelmesdag/.nuget/packages/mudblazor/6.4.0/staticwebassets/",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/michaelmesdag/.nuget/packages/mudblazor/6.4.0/staticwebassets/MudBlazor.min.js"
+    },
+    {
+      "Identity": "/Users/michaelmesdag/Projects/PopoverIssue/wwwroot/favicon.ico",
+      "SourceId": "PopoverRepro",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/michaelmesdag/Projects/PopoverIssue/wwwroot/",
+      "BasePath": "_content/PopoverRepro",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}
